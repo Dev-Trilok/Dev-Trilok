@@ -3,12 +3,14 @@
 ### Hi there, I'm [Triloknath Nalawade](#) 👋
 ![Profile views](https://gpvc.arturio.dev/trilokmhl)
 
+![alt text](https://github.com/[Dev-Trilok]/[Dev-Trilok]/123.gif?raw=true)
 
 - 🔭 I’m currently working on a own projects !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for job opportunities in Web Development 💻
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and play games / eating food 🍟
+
 
 ### Languages
 
@@ -67,9 +69,13 @@
 
 <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Dev-Trilok&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Trilok&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on Instagram"/>](https://linkedin.com/in/Raymo111)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Raymo111 on Instagram"/>](https://twitter.com/Raym0111)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/Raymo111)
+ #### 📫 How to reach me:   
+  <!-- [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)
+  [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe) -->
+  [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/its_trilok_007)
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/triloknath-nalawade/)
+  [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/lalu.desiboy/)
+  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/dev_trilok_007)
+  <a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+  
