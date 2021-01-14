@@ -14,3 +14,4 @@
 [![GitHub Triloknath](https://img.shields.io/github/followers/Ayush32?style=social)](https://github.com/dev-trilok)
 [![website](https://img.shields.io/badge/Portfolio-Ayush-2648ff?style=flat-square&logo=google-chrome)](#)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dev-trilok)](https://github.com/dev-trilok/github-readme-stats)
