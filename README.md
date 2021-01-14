@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there, I'm [Triloknath Nalawade](#) 👋
+![Profile views](https://gpvc.arturio.dev/trilokmhl)
 
-
-**Dev-Trilok/Dev-Trilok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on a own projects !
 - 🌱 I’m currently learning everything 🤣
