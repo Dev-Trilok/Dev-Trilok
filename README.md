@@ -2,8 +2,10 @@
 
 ### Hi there, I'm [Triloknath Nalawade](#) 👋
 ![Profile views](https://gpvc.arturio.dev/trilokmhl)
+<!-- 
+![alt text](https://github.com/[Dev-Trilok]/[Dev-Trilok]/123.gif?raw=true) -->
+<img alt="Awesome Coding" src="123.gif"> </img>
 
-![alt text](https://github.com/[Dev-Trilok]/[Dev-Trilok]/123.gif?raw=true)
 
 - 🔭 I’m currently working on a own projects !
 - 🌱 I’m currently learning everything 🤣
