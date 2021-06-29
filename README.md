@@ -12,7 +12,7 @@
 
 
 - 🔭 I’m currently working on a own projects 📽  !
-- 🌱 I’m currently learning Full Stack Web Developer 💗 
+- 🌱 I’m currently learning Full Stack Web Development 💗 
 - 👯 I’m looking for job opportunities in Web Development 💻
 - 🥅 2021 Goals: Contribute more to Open Source projects :
 - ⚡ Fun fact: I love to travel and play games / eating food 🍟
