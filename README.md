@@ -1,7 +1,7 @@
 <!-- <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1> -->
 <h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Triloknath Nalawade <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
-<h3 align="center">I'm a Programmer, Developer, and Freelancer!!</h3><img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
+<h3 align="center">I'm a Programmer, Developer, and Freelancer!!</h3>
 
 <!-- ### Hi there, I'm [Triloknath Nalawade](#) 👋 -->
 ![Profile views](https://gpvc.arturio.dev/trilokmhl)
@@ -12,7 +12,7 @@
 
 
 - 🔭 I’m currently working on a own projects 📽  !
-- 🌱 I’m currently learning Mern Stack 💗 
+- 🌱 I’m currently learning Full Stack Web Developer 💗 
 - 👯 I’m looking for job opportunities in Web Development 💻
 - 🥅 2021 Goals: Contribute more to Open Source projects :
 - ⚡ Fun fact: I love to travel and play games / eating food 🍟
